@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         "Grapes"
     ]
     
-    var currentQuestionIndex: Int = 1
+    var currentQuestionIndex: Int = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
